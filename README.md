@@ -10,23 +10,14 @@ File: medical_examination.csv
 Features include:
 
 Age
-
 Height
-
 Weight
-
 Blood Pressure
-
 Cholesterol
-
 Glucose
-
 Smoking
-
 Alcohol intake
-
 Physical activity
-
 Cardio disease
 
 📊 Tasks Performed
@@ -40,21 +31,18 @@ Cardio disease
 📈 Visualizations
 
 Categorical Plot
-
 Correlation Heatmap
 
 🛠 Technologies Used
 
 Python
-
 Pandas
-
 Seaborn
-
 Matplotlib
-
 NumPy
 
 ▶ Run Project
+
 pip install pandas matplotlib seaborn numpy
+
 python main.py
