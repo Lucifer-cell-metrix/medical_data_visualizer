@@ -36,9 +36,13 @@ Correlation Heatmap
 🛠 Technologies Used
 
 Python
+
 Pandas
+
 Seaborn
+
 Matplotlib
+
 NumPy
 
 ▶ Run Project
